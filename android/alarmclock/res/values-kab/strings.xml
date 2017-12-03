@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Imaɣuten n tafat</string>
+  <string name="alarm_options">Iɣewwaṛen n uṭenṭen</string>
+  <string name="alarm_tone">Anas n uṭenṭen</string>
+  <string name="cancel">Sefsex</string>
+  <string name="day">%d n wass</string>
+  <string name="days">% n wussan</string>
+  <string name="am">FT</string>
+  <string name="artists">Inaẓuren</string>
+</resources>

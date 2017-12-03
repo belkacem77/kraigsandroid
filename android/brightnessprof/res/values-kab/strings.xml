@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Imaɣuten n tafat</string>
+  <string name="brightness">Tafat:</string>
+  <string name="auto_brightness">Tafat tawurmant</string>
+  <string name="add">Rnu</string>
+  <string name="cancel">Sefsex</string>
+  <string name="close">Mdel</string>
+  <string name="calibrate">Sfugel</string>
+  <string name="current_setting">Aɣewwaṛ amatu:</string>
+</resources>
